@@ -17,8 +17,8 @@ Below, you will find iPython Notebooks, R Markdown files, SQL scripts, and Java/
     
     - [Determining Project popularity on GitHub]() Used regression models to study which projects are likely to gain popularity on GitHub.
 
-    _Algorithms: Decision trees, Logistic (L1-Regularized, L2-Regularized), Random forests, Boosted trees, SVM, Cox-Proportional Hazards Model
-    _Tools: scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, ggplot2
+    _Algorithms: Decision trees, Logistic (L1-Regularized, L2-Regularized), Random forests, Boosted trees, SVM, Cox-Proportional Hazards Model_
+    _Tools: scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, ggplot2_
 
 - ### Regression
 
@@ -28,22 +28,22 @@ Below, you will find iPython Notebooks, R Markdown files, SQL scripts, and Java/
 
     - [Identify Long-term developers on GitHub]() Used regression models to identify which developers are likely to continue contributing to a software project on GitHub.
 
-    _Regression algorithms used: Linear (Lasso, Ridge, Elastic-Net), Poisson, Negative Binomial (over-dispersed), Random forests Boosted trees, Cox-Proportional Hazards
+    _Algorithms: Linear Regression (Lasso, Ridge, Elastic-Net), Poisson Regression, Negative Binomial Regression (over-dispersed), Random forests, Boosted trees_
 
-    _Visualization tools used: Matplotlib, Seaborn, ggplot2
+    _Visualization tools used: Scikit-learn, Pandas, Matplotlib, Seaborn, ggplot2_
     
 - ### Clustering:
 
     - [Clustering: Customer Segmentation]() Clustered the customers in an online retailer dataset using techniques such as K-Means and PCA.
 
-    _Clustering tools used: PCA, K-Means clustering
-    _Visualization tools used: Matplotlib, Seaborn
+    _Clustering tools used: PCA, K-Means clustering_
+    _Visualization tools used: Matplotlib, Seaborn_
 
 - ### Statistics And Exploration:
 
     - [User Personality in Recommender Systems](http://www-users.cs.umn.edu/~raghav/papers/Karumur_UMAP16.pdf) Used several statistical techniques to explore the relationship between personality and newcomer retention, level of engagement, activity preferences, and distribution of user activity.
 
-    _Techniques used: t-test, Wilcoxon-Mann-Whitney-test, ANOVA 
+    _Techniques used: t-test, Wilcoxon-Mann-Whitney-test, ANOVA_ 
 
 - ### Java Coding Problems
 - ### SQL Coding Problems
