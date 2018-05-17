@@ -18,6 +18,7 @@ Below, you will find iPython Notebooks, R Markdown files, SQL scripts, and Java/
     - [Determining Project popularity on GitHub]() Used regression models to study which projects are likely to gain popularity on GitHub.
 
     _Algorithms: Decision trees, Logistic (L1-Regularized, L2-Regularized), Random forests, Boosted trees, SVM, Cox-Proportional Hazards Model_
+    
     _Tools: scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, ggplot2_
 
 - ### Regression
